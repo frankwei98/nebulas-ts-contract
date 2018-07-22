@@ -1,0 +1,13 @@
+{
+  "name": "better-nebulas",
+  "version": "1.0.0",
+  "description": "A framework that help you build better nebulas smart contract",
+  "main": "index.js",
+  "author": "Frank Wei<frank@frankwei.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^7.2.1",
+    "nebulas": "^0.5.2",
+    "tslint": "^5.10.0"
+  }
+}
